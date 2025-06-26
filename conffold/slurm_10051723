@@ -1,0 +1,9 @@
+openfold/config.py
+openfold/np/residue_constants.py
+openfold/utils/trace_utils.py
+openfold/utils/script_utils.py
+openfold/model/embedders.py
+openfold/data/data_transforms.py
+openfold/data/feature_pipeline.py
+openfold/data/data_pipeline.py
+
