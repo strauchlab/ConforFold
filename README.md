@@ -22,7 +22,9 @@ ConforFold is available under the [Apache License, Version 2.0](http://www.apach
 2. Download ConforFold repository using git.
    git clone git://project.url.here
 
-3. Replace the following files with the corresponding files from conffold folder in ConforFold repository: <br />
+3. Merge and unzip splitted "model/conforfold_model.pt" file: cat conforfold_modela? > conforfold_model.7z ; 7z x conforfold_model.7z
+
+4. Replace the following files with the corresponding files from conffold folder in ConforFold repository: <br />
 	..path_to_OpenFold/openfold/config.py <br />
 	..path_to_OpenFold/oopenfold/np/residue_constants.py <br />
 	..path_to_OpenFold/oopenfold/utils/trace_utils.py <br />
