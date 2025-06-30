@@ -2,9 +2,7 @@
 
 **Deep learning model grenerating protein conformational ensembles**
 
-<p align="center">
-<img src="./ga.png" width="350" />
-</p>
+
 
 
 
