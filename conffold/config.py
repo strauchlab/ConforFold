@@ -4,7 +4,7 @@ import importlib
 import ml_collections as mlc
 
 
-def set_inf(c, inf):
+def set_inf(c, inf): 
     for k, v in c.items():
         if isinstance(v, mlc.ConfigDict):
             set_inf(v, inf)
