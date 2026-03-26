@@ -214,9 +214,7 @@ def mutate(seq, idx, ln):
     for x in range(int(len(k)//2)):
         x1 = min(k[2*x], k[2*x +1])
         x2 = max(k[2*x], k[2*x +1])
-        print(x1, x2)
         if seq[x2] != seq[x1]:
-            print('t')
             seq = seq[:x1] + seq[x2] + seq[x1+1: x2] + seq[x1] + seq[x2+1:]
         else:
             print(seq[x2], seq[x1])
