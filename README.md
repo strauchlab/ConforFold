@@ -26,13 +26,13 @@ ConforFold is available under the [Apache License, Version 2.0](http://www.apach
 
 4. Replace the following files with the corresponding files from conffold folder in ConforFold repository: <br />
 	..path_to_OpenFold/openfold/config.py <br />
-	..path_to_OpenFold/oopenfold/np/residue_constants.py <br />
-	..path_to_OpenFold/oopenfold/utils/trace_utils.py <br />
-	..path_to_OpenFold/oopenfold/utils/script_utils.py <br />
-	..path_to_OpenFold/oopenfold/model/embedders.py <br />
-	..path_to_OpenFold/oopenfold/data/data_transforms.py <br />
-	..path_to_OpenFold/oopenfold/data/feature_pipeline.py <br />
-	..path_to_OpenFold/oopenfold/data/data_pipeline.py 
+	..path_to_OpenFold/openfold/np/residue_constants.py <br />
+	..path_to_OpenFold/openfold/utils/trace_utils.py <br />
+	..path_to_OpenFold/openfold/utils/script_utils.py <br />
+	..path_to_OpenFold/openfold/model/embedders.py <br />
+	..path_to_OpenFold/openfold/data/data_transforms.py <br />
+	..path_to_OpenFold/openfold/data/feature_pipeline.py <br />
+	..path_to_OpenFold/openfold/data/data_pipeline.py 
 
 
 
