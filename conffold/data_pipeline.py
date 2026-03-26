@@ -210,7 +210,7 @@ def make_pdb_features(
 
 def mutate(seq, idx, ln):
     
-    k = random.sample(idx, int(ln*0.06))
+    k = random.sample(idx, int(ln*0.1))
     for x in range(int(len(k)//2)):
         x1 = min(k[2*x], k[2*x +1])
         x2 = max(k[2*x], k[2*x +1])
